@@ -1,8 +1,8 @@
 #### Papers for project
 
-* ~~Metzler, Chris, Ali Mousavi, and Richard Baraniuk. "Learned D-AMP: Principled neural network based compressive image recovery." Advances in Neural Information Processing Systems. 2017.~~
-* ~~Sprechmann, Pablo, Alexander M. Bronstein, and Guillermo Sapiro. "Learning efficient sparse and low rank models." IEEE transactions on pattern analysis and machine intelligence 37.9 (2015): 1821-1833.~~
-* ~~Liu, Ding, et al. "Robust single image super-resolution via deep networks with sparse prior." IEEE Transactions on Image Processing 25.7 (2016): 3194-3207.~~
+* Metzler, Chris, Ali Mousavi, and Richard Baraniuk. "Learned D-AMP: Principled neural network based compressive image recovery." Advances in Neural Information Processing Systems. 2017.~~
+* Sprechmann, Pablo, Alexander M. Bronstein, and Guillermo Sapiro. "Learning efficient sparse and low rank models." IEEE transactions on pattern analysis and machine intelligence 37.9 (2015): 1821-1833.~~
+* Liu, Ding, et al. "Robust single image super-resolution via deep networks with sparse prior." IEEE Transactions on Image Processing 25.7 (2016): 3194-3207.~~
 * ~~Sun, Xiaoxia, Nasser M. Nasrabadi, and Trac D. Tran. "Supervised deep sparse coding networks." 2018 25th IEEE International Conference on Image Processing (ICIP). IEEE, 2018.~~
 * ~~Chun, Il Yong, and Jeffrey A. Fessler. "Convolutional dictionary learning: Acceleration and convergence." IEEE Transactions on Image Processing 27.4 (2017): 1697-1712.~~
 * Liu, Jialin, et al. "First-and second-order methods for online convolutional dictionary learning." SIAM Journal on Imaging Sciences 11.2 (2018): 1589-1628.
